@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">赞助证</string>
+
+    <string name="ex_sponsorship_title">Q4 SLR Driver</string>
+    <string name="ex_sponsor_name">Sponser enterprise name</string>
+    <string name="ex_sponsorship_updated_at">2015/11/20</string>
+    <string name="ex_sponsorship_intro">申请条件 试驾威朗搭载1.5T涡轮发动机7速双离合变速器，兼顾出色动力与燃油经济。威朗，为追求个性动感与高品质驾驶体验的消费者带来更具竞争力的全新选择，助力别克进一步完善对中级车市场的布局，并巩固其在主流细分市场中的领先地位。</string>
+    <string name="ex_sponsorship_apply_condition">驾龄5年以上，无心脏病，高血压等疾病</string>
+
+    <string name="format_sponsorship_intro">申请条件 %s</string>
+
+    <string name="apply">申请</string>
+    <string name="applied">已申请</string>
+    <string name="approved">已批准</string>
+    <string name="rejected">已拒绝</string>
+    <string name="apply_condition">申请条件</string>
+    <string name="back">返回</string>
+    <string name="mine">我的</string>
+    <string name="sponsorship">赞助</string>
+    <string name="sponsor">赞助商</string>
+    <string name="my_sponsorship">我的赞助</string>
+    <string name="apply_sponsorship">申请赞助</string>
+    <string name="team_or_personal_hint">组织或个人</string>
+    <string name="contact_phone_hint">联系电话</string>
+    <string name="application_reason_hint">请填写申请说明，以便企业快速通过审批。</string>
+
+
+</resources>
